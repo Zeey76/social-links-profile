@@ -23,7 +23,7 @@ body {
 main {
     max-width: 23rem;
     background-color: hsl(0, 0%, 12%);
-    padding: 2rem;
+    padding: 2.5rem;
     text-align: center;
     border-radius: 0.65rem;
 }
